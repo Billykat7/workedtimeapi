@@ -16,23 +16,13 @@ Please use requirements.txt to install packages in order to avoid error and malf
 
 python -m pip install -r requirements.txt
 
-dj-database-url==0.5.0
-dj-static==0.0.6
-Django==1.9.1
-django-heroku==0.3.1
-django-rest-swagger==0.3.4
 django-toolbelt==0.0.1
+Django==1.9.1
 djangorestframework==3.3.2
-gunicorn==19.9.0
 holidays==0.9.10
-numpy==1.10.4
-psycopg2==2.8.2
 python-dateutil==2.8.0
 PyYAML==3.11
-scipy==1.2.1
 six==1.12.0
-static3==0.6.1
-whitenoise==4.1.2
 
 
-I used Postman to test. But tests can be done with other tools you can use to push a 'GET' Method.
+I used Postman to test. But tests can be done with other tools you can use to push a 'GET' command.
